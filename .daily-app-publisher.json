@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "request_date": "2026-10-30",
+  "repository": "sqlguard-cli",
+  "payload_sha256": "2d40a563cb7dd783179b3e4db53ecb2a043c6591e5e987e8f9fe0134c0394ba9",
+  "source_repository": "Mavianza/daily-app-publisher",
+  "source_commit": "3101bef5b42b76361d20fa8ab5f52316da497998",
+  "source_run_url": "https://github.com/Mavianza/daily-app-publisher/actions/runs/40922978430",
+  "published_at": "2026-10-29T17:36:53.688545+00:00"
+}

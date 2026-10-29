@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sqlguard-mini-cli"
+version = "1.0.0"
+description = "Pemeriksa query dan rencana eksekusi SQLite dalam mode baca saja"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+license = {text = "MIT"}
+
+[project.scripts]
+sqlguard = "sqlguard.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sqlguard*"]
